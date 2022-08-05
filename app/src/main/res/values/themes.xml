@@ -1,8 +1,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
+<<<<<<< HEAD
     <style name="Theme.MeuDiario" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">#43302a</item>
+=======
+    <style name="Theme.SharedPreferences" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+>>>>>>> 5fbdd65ed9cb2ccd059268e2877c6fbba4645038
         <item name="colorPrimaryVariant">@color/purple_700</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
@@ -13,6 +19,7 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+<<<<<<< HEAD
 
     <style name="Theme.MeuDiario.NoActionBar">
         <item name="windowActionBar">false</item>
@@ -22,4 +29,6 @@
     <style name="Theme.MeuDiario.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="Theme.MeuDiario.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+=======
+>>>>>>> 5fbdd65ed9cb2ccd059268e2877c6fbba4645038
 </resources>

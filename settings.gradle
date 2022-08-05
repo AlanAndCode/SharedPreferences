@@ -12,5 +12,9 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+<<<<<<< HEAD
 rootProject.name = "MeuDiario"
+=======
+rootProject.name = "SharedPreferences"
+>>>>>>> 5fbdd65ed9cb2ccd059268e2877c6fbba4645038
 include ':app'

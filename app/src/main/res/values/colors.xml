@@ -7,5 +7,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+<<<<<<< HEAD
     <color name="Cor_Fundo">#FFFCC6</color>
+=======
+>>>>>>> 5fbdd65ed9cb2ccd059268e2877c6fbba4645038
 </resources>
